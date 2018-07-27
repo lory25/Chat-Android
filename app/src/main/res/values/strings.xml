@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Private chat</string>
+    <string name="preference_file_key">PreferenceFile</string>
+    <string name="saved_data_key">SAVE_DATA</string>
+    <string name="token">TOKEN_USER</string>
+    <string name="phone_number_destination">+40743903079</string>
+    <string name="protocol">http://</string>
+    <string name="host">212.237.10.79</string>
+    <string name="app_name_php">/loredana/</string>
+    <string name="semafor_register">register</string>
+    <string name="semafor_login">login</string>
+    <string name="semafor_send">send</string>
+    <string name="semafor_mesaje">mesaje</string>
+    <string name="semafor_update">update</string>
+    <string name="semafor_notificare">notificare</string>
+    <string name="empty_inputs">Completeaza datele</string>
+    <string name="exit_title_dialog">Really Exit?</string>
+    <string name="exit_messsage_dialog">Are you sure you want to exit?</string>
+    <string name="response_already_exist">Account already exist</string>
+    <string name="account_already_exist_messsage">Contul deja exista</string>
+    <string name="send_SMS_message">Un SMS a fost trimis, pentru a ti se crea un cont</string>
+    <string name="response_wrong_data">Datele sunt incorecte</string>
+    <string name="body_sms"> Parola de logare pentru aplicatia Loredana Chat este: \n password %1$s .</string>
+    <string name="empty_message_chat">Introdu un mesaj</string>
+    <string name="message_written">You\'ve writen this message %1$s</string>
+    <string name="notification_title">Notification from Loredana\'s Chat</string>
+    <string name="notification_message">Have a new message from %1$s</string>
+    <string name="no_internet_text_alert">Activate you Wi-fi or mobile data and try again.</string>
+    <string name="no_internet">No internet connection detected!</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="loredana.larion.com.loredana.loredana.larion.com.activity.ChatActivity">
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_launcher_background"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+</menu>
+
